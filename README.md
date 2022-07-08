@@ -20,4 +20,3 @@ I studied circular array stacks as part of my Data Structures and Algorithms mod
 
 I needed an autoclicker for one of my video games and instead of getting a program from the internet, I might as well attempt to make my own.
 
-- AI Projects
